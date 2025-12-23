@@ -68,6 +68,7 @@ The project is structured to be modular and scalable:
 │   ├── config.py       # Centralized configuration (Metrics, Constants)
 │   ├── models.py       # Mathematical formulas & Curve fitting logic
 │   └── analysis.py     # Simulation engine & Revenue calculations
+├── screenshots/        # Visual Simulation Results
 ├── main.py             # Main entry point to run simulations
 ├── eda_queries.sql     # SQL scripts for Exploratory Data Analysis
 ├── requirements.txt    # Python dependencies
