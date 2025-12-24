@@ -44,7 +44,7 @@ I built a custom simulation engine (`src/analysis.py`) that calculates:
 ### 3. Exploratory Data Analysis (SQL)
 Beyond the simulation, I used SQL to perform EDA on the provided dataset to uncover trends regarding:
 * First-day engagement impact on LTV.
-* Skill-based churn (Win/Loss rates).
+* Platform revenue comparison.
 * Country-tier performance segmentation.
 
 ---
