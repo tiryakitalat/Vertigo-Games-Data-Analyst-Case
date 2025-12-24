@@ -1,4 +1,4 @@
-import pandas as pd  # <--- Make sure this is added
+import pandas as pd  
 import src.config as cfg
 from src.models import fit_retention_curve
 from src.analysis import simulate_scenario
@@ -68,4 +68,5 @@ def main():
     print(f"Success: Data exported to '{output_filename}'.")
 
 if __name__ == "__main__":
+
     main()
