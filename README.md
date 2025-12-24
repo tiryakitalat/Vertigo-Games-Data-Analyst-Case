@@ -1,6 +1,6 @@
 # Mobile Game A/B Testing & Retention Analysis Case Study 🎮
 
-## 📌 Executive Summary (The Verdict)
+## 📌 Executive Summary
 **Task 1-a Winner:** **Variant B**
 
 My simulation confirms **Variant B** as the superior choice. The analysis relies on three key visual indicators:
