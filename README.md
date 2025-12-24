@@ -51,19 +51,25 @@ Revenue uplift analysis during the sale event.
 
 ## 🔎 Task 2: Exploratory Data Analysis (SQL Findings)
 
-In addition to the simulation, I analyzed the provided user dataset to uncover behavioral trends.
+In addition to the simulation, I analyzed the provided user dataset to uncover behavioral trends. Visualized outputs on Excel.
 
 ### 1. Market Value Analysis (ROI)
 Identified high-value markets based on **ARPU** rather than just volume.
-![Country ARPU](screenshots/sql_country_arpu.png)
+![Country ARPU](screenshots/Case2_Country_Analysis.png)
+
+![Country ARPU](screenshots/Case2_Country_ARPU.png)
+
+![Country ARPU](screenshots/Case2_Country_Revenue_Graph.png)
 
 ### 2. The "Hook" Effect (Loyalty Analysis)
 * **Insight:** Users who played more than **20 minutes** on their first day showed a drastic increase in LTV. Engagement is a leading indicator of monetization.
-![Loyalty Analysis](screenshots/sql_loyalty_analysis.png)
+
+![Loyalty Analysis](screenshots/Case2_Loyalty_Analysis.png)
 
 ### 3. Platform Demographics
 Breakdown of the user base by operating system.
-![Platform Dist](screenshots/sql_platform_dist.png)
+
+![Platform Dist](screenshots/Case2_Platform_Analysis.png)
 
 *Full SQL queries are available in `eda_queries.sql`.*
 
